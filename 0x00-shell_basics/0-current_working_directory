@@ -1,3 +1,2 @@
 #!/bin/bash
 echo $PATH#!/bin/bash
-echo $PATH
