@@ -1,3 +1,6 @@
 #!/bin/bash
 0-current_working_directory=$(pwd)
 echo "current working directory: $0-current_working_directory"
+#!/bin/bash
+0-current_working_directory = $(pwd)
+echo "my working directory: 0-current_working_directory"
